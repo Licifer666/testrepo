@@ -1,2 +1,2 @@
 # TEST
-this is a testrepo example
+This is the example of Gitrepo merge example
